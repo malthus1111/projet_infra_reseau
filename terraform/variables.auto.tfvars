@@ -1,0 +1,10 @@
+gcp_credentials = "code-gke-408917-997b3749582b.json"
+gcp_project_id = "My First Project"
+gcp_region = "us-west1"
+gke_zones = [ "us-west1-a" ]
+gke_regional = false
+gke_network = "default"
+gke_subnetwork = "default"
+gke_service_account_name = "project-service-account@my-first-project.iam.gserviceaccount.com"
+gcp_cluster_name = "malthus-cluster"
+gke_default_nodepool_name = "malthus-nodepool"
